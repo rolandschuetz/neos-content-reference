@@ -1,0 +1,11 @@
+
+Neos:
+  Neos:
+    fusion:
+      autoInclude:
+        CodeQ.ContentReferences: true
+    userInterface:
+      translation:
+        autoInclude:
+          Neos.NodeTypes:
+            - 'NodeTypes/*'
