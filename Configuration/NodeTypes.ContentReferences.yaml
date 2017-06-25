@@ -1,4 +1,4 @@
-'Neos.NodeTypes:ContentReferences':
+'CodeQ.ContentReferences:ContentReferences':
   superTypes:
     'Neos.Neos:Content': TRUE
   ui:

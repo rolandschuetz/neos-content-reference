@@ -7,5 +7,5 @@ Neos:
     userInterface:
       translation:
         autoInclude:
-          Neos.NodeTypes:
+          CodeQ.ContentReferences:
             - 'NodeTypes/*'
