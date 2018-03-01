@@ -1,5 +1,3 @@
 --------------
-Content NodeType: ContentReferences
+DEPRECATED in favor of [neos/nodetypes-contentreferences](https://github.com/neos/nodetypes-contentreferences)
 --------------
-
-This implementation is fully based on [Neos.NodeTypes](https://github.com/neos/neos-nodetypes).
